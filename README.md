@@ -27,7 +27,7 @@ Former member of the **RCVA** team which participates and wins sometimes the **E
 - 📫 How to reach me: **bouteiller.remi@gmail.com**
 
 - ⚡ What I like to do: **I like so much playing rugby and making DIY projects**
--  You can read more about some of these projects here : [**grav.bouteiller.org**](grav.bouteiller.org)
+- You can read more about some of these projects here : [**grav.bouteiller.org**](https://grav.bouteiller.org)
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
