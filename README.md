@@ -1,36 +1,35 @@
-<!---
-rbouteiller/rbouteiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm @rbouteiller </h1>
-<h3 align="center">Robotics enthusiast, I like to take on new challenges.</h3>
+<h1 align="center">Hi 👋, I'm @rbouteiller</h1>
+<h3 align="center">Robotics & Embedded Systems Enthusiast | Software & Electronics Engineer</h3>
 
-- 👀 I’m interested in new technologies, selfhosted services, robotics ...
-- 🌱 I’m currently learning computer sciences and electronics at ENS Paris-Saclay
+- 🚀 **Currently:** Electronics & Software Lead at **Amira Health**, developing **Terra**, a wearable system that predicts hot flashes and automatically cools you down before they disrupt your sleep. My contributions include:
+  - 🛠️ **Multilayer, multichip PCB design** with **high-frequency components, BLE, OTA updates**.
+  - 📱 **Mobile App Development** in **React Native** with **Kotlin & Swift**.
+  - 🔧 **Backend Development** using **Rust**.
+- 🎓 **Education:** Master's in **Embedded Systems and Data Processing** at **ENS Paris-Saclay & Institut Polytechnique de Paris**, dual degree with **ESSEC Business School (MIM - Grande École)**.
+- 🤖 **Passionate about:** Robotics, embedded systems, AI, self-hosted solutions, and automation.
+- 🏆 **Former RCVA team member**, participating in and winning the **Eurobot** championship. [rcva.fr](https://rcva.fr)
 
-Former member of the **RCVA** team which participates and wins sometimes the **Eurobot** championship. https://rcva.fr 
+### 🔬 My Technical Expertise
+- 💡 Developing robotics projects combining **electronics, software, and mechatronics**.
+- 🖥️ Fluent in **C/C++ (microcontrollers)** and **Python**. Also familiar with **MatLab, VHDL (CPLD/FPGA), and Excel scripting**.
+- 🛠️ Experienced in **BLE, embedded firmware, PCB design, and AI-driven automation**.
 
-- 🔭 I’m currently working on Master’s degree in **Embedded Systems and Data Processing** at University Paris-Saclay, Institut Polytechnique de Paris
+### 🌍 Self-Hosting & DevOps
+I have set up various **self-hosted services** running on an **HP Proliant DL380G9** with **TrueNAS SCALE & Docker**:
+- ✉️ Mail Server → [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+- ☁️ Cloud Storage → [Nextcloud](https://github.com/nextcloud)
+- 🔒 Identity Management → [Keycloak](https://github.com/keycloak/keycloak)
+- 🎬 Media & Collaboration → Jellyfin, OpenLDAP, OpenVPN, HedgeDoc, and more.
 
-- 💡 I like to develop robotics projects that combine on-board **electronics, computer sciences and mechatronics**.
+### 🏉 Beyond Tech
+- ⚡ Rugby player & DIY enthusiast.
+- 📢 Always open to collaborations in **robotics, embedded systems, and AI**.
+- 📝 Check out my personal projects at **[grav.bouteiller.org](https://grav.bouteiller.org)**.
 
-- 🖥️  Fluent in **C/C++** for microcontrollers and **Python**, also familiar with **MatLab, Excel and VHDL** for CPLD/FPGA configuring.
-
-- ⭐ Set up numerous of self-hosted services :
-  - ✉️ Mail : https://github.com/docker-mailserver/docker-mailserver
-  - ☁️ Drive : https://github.com/nextcloud
-  - 🔒 Keycloak : https://github.com/keycloak/keycloak
-  - and jellyfin, openldap, openVPN, hedgedoc
-
-    Everything is based on HP Proliant DL380G9 with TrueNAS SCALE and docker.
-
-- 📫 How to reach me: **bouteiller.remi@gmail.com**
-
-- ⚡ What I like to do: **I like so much playing rugby and making DIY projects**
-- You can read more about some of these projects here : [**grav.bouteiller.org**](https://grav.bouteiller.org)
-
-<h3 align="center">Connect with me:</h3>
+### 📫 Let's Connect!
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remi-bouteiller/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouteiller.remi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remi-bouteiller/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouteiller.remi@gmail.com)
+
+</div>
